@@ -61,10 +61,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
- <div align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yashh-web&theme=tokyonight&show_icons=true&locale=en" height="180" alt="yash" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashh-web&theme=tokyonight&show_icons=true&locale=en&layout=compact" height="180" alt="yash" />
- </div>
+</div>
 
 <br>
 <br>
