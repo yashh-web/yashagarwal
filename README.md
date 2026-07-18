@@ -8,10 +8,10 @@ yashagarwal/yashagarwal is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 ---> 
 
-<h1 align="center" color="white">Hi! I'm Yash Agarwal <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30px"></h1> 
+<h1 align="center" color="white">Hi! I'm Yash Agarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 <h3 align="center" color="white">Data Analyst at Ynteractive</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <br>
 <br>
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,git,python,mysql,html,css,javascript,n8n,typescript,graphql,latex" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java,c,git,python,mysql,html,css,javascript,vscode,typescript,graphql,latex" height="60"/>
   </a>
 </p>
 
